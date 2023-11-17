@@ -1,0 +1,30 @@
+---
+title: "Hello, Quarto"
+author: "Matthew DeHaven"
+institute: "Brown University"
+date: "2023"
+format:
+  revealjs:
+    embed-resources: true
+editor: 
+  render-on-save: true
+echo: true
+output_dir: "docs/"
+---
+
+
+## Introduction
+
+Text text text
+
+- Bullet 1
+- Bullet 2
+
+
+## Code slide
+
+```{r}
+require(ggplot2)
+ggplot(data = NULL) + 
+geom_line(aes(x = 1:10, y = rnorm(10)))
+```

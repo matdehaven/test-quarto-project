@@ -12,5 +12,19 @@
     "title": "Hello, Quarto",
     "section": "Code slide",
     "text": "Code slide\n\nrequire(ggplot2)\nggplot(data = NULL) + \ngeom_line(aes(x = 1:10, y = rnorm(10)))"
+  },
+  {
+    "objectID": "presentations/welcome.html#welcome",
+    "href": "presentations/welcome.html#welcome",
+    "title": "Welcome",
+    "section": "Welcome!",
+    "text": "Welcome!\nText text text\n\nBullet 1\nBullet 2"
+  },
+  {
+    "objectID": "presentations/welcome.html#code-slide",
+    "href": "presentations/welcome.html#code-slide",
+    "title": "Welcome",
+    "section": "Code slide",
+    "text": "Code slide\n\nrequire(ggplot2)\nggplot(data = NULL) + \ngeom_line(aes(x = 1:10, y = rnorm(10)))"
   }
 ]

@@ -1,0 +1,16 @@
+[
+  {
+    "objectID": "presentations/intro.html#introduction",
+    "href": "presentations/intro.html#introduction",
+    "title": "Hello, Quarto",
+    "section": "Introduction",
+    "text": "Introduction\nText text text\n\nBullet 1\nBullet 2"
+  },
+  {
+    "objectID": "presentations/intro.html#code-slide",
+    "href": "presentations/intro.html#code-slide",
+    "title": "Hello, Quarto",
+    "section": "Code slide",
+    "text": "Code slide\n\nrequire(ggplot2)\nggplot(data = NULL) + \ngeom_line(aes(x = 1:10, y = rnorm(10)))"
+  }
+]

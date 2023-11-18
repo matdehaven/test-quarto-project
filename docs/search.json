@@ -26,5 +26,12 @@
     "title": "Welcome",
     "section": "Code slide",
     "text": "Code slide\n\nrequire(ggplot2)\nggplot(data = NULL) + \ngeom_line(aes(x = 1:10, y = rnorm(10)))"
+  },
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "My Website",
+    "section": "",
+    "text": "Testing a website"
   }
 ]

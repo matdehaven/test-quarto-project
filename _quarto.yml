@@ -1,3 +1,7 @@
 project:
   type: website
   output-dir: docs/
+
+website:
+  sidebar:
+    contents: auto

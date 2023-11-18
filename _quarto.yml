@@ -3,5 +3,10 @@ project:
   output-dir: docs/
 
 website:
+  title: "Testing"
+  navbar: 
+    left:
+      - text: "Home"
+        file: index.qmd
   sidebar:
     contents: auto

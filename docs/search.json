@@ -33,5 +33,26 @@
     "title": "My Website",
     "section": "",
     "text": "Testing a website"
+  },
+  {
+    "objectID": "reports/test-report.html",
+    "href": "reports/test-report.html",
+    "title": "My document",
+    "section": "",
+    "text": "Text text\n\n\nText text text\n\n\n\nSome analysis\n\nrequire(ggplot2)\n\nLoading required package: ggplot2\n\nggplot(data = NULL) +\ngeom_line(aes(x = 1:100, y = rnorm(100)))\n\n\n\n\nSome more text"
+  },
+  {
+    "objectID": "reports/test-report.html#section-header",
+    "href": "reports/test-report.html#section-header",
+    "title": "My document",
+    "section": "",
+    "text": "Text text text"
+  },
+  {
+    "objectID": "reports/test-report.html#section-header-1",
+    "href": "reports/test-report.html#section-header-1",
+    "title": "My document",
+    "section": "",
+    "text": "Some analysis\n\nrequire(ggplot2)\n\nLoading required package: ggplot2\n\nggplot(data = NULL) +\ngeom_line(aes(x = 1:100, y = rnorm(100)))\n\n\n\n\nSome more text"
   }
 ]

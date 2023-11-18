@@ -1,0 +1,30 @@
+---
+title: "My document"
+format:
+  html:
+    toc: true
+---
+
+# Chapter Header
+
+Text text
+
+## Section Header
+
+Text text text
+
+## Section Header
+
+Some analysis 
+
+```{r}
+require(ggplot2)
+ggplot(data = NULL) +
+geom_line(aes(x = 1:100, y = rnorm(100)))
+```
+
+Some more text
+
+# Another Chapter
+
+Final text
